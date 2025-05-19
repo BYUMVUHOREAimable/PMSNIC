@@ -95,13 +95,13 @@ User authentication with role-based access (USER, ADMIN).
  # SERVER
 PORT =3000
 
-DATABASE_URL=postgresql://nicola@localhost:5432/parking?schema=public
+DATABASE_URL = "postgresql://postgres:3Nyamiyaga100%@localhost:5432/pms?schema=public"
 
 # JWT
 JWT_SECRET_KEY = "secret"
 JWT_EXPIRES_IN = 86400
 
-EMAIL_USER=fatepepe66@gmail.com
-EMAIL_PASS=vayh ynaf ndoe gbsupost
+EMAIL_USER=aimablebyumvuhore@gmail.com
+EMAIL_PASS=ffbv dmwm gqql sivh
 
 
